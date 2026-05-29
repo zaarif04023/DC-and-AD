@@ -6,7 +6,7 @@ IT Home Lab — Domain Controller and Active Directory
 
 <p>Description</p>
 <shortdesc>
-A hands-on home lab project simulating a real-world IT environment. Built to demonstrate practical skills in Windows Server administration and Active Directory management.
+A hands-on home lab project simulating a real-world IT environment. Built to demonstrate practical skills in Windows Server administration and Active Directory management, all over the command line.
 </shortdesc>
 <ul>
 <li>Overview</li>
